@@ -1,0 +1,25 @@
+body {
+  background-color: #c3b08e;
+}
+
+h1 {
+  text-aling: center;
+  color: brown;
+}
+
+img {
+  width: 500px;
+  display: block;
+  margin: auto;
+}
+
+p {
+  text-align: center;
+  font-size: 34px;
+}
+
+.container a {
+  text-align: center;
+  color: green;
+  font-size: 24px;
+}
